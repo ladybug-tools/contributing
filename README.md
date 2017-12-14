@@ -1,16 +1,17 @@
 Contributing to Ladybug Tools Projects
 =========================================
 
-Ladybug Tools welcomes contributions to all our [projects on Github](http://www.github.com/ladybug-tools).
+Thank you for considering contributing to Ladybug Tools. We welcome contributions to all
+our [projects on Github](http://www.github.com/ladybug-tools) and from anyone, even if
+you are new to open source we will be happy to help you to get started. Most of the
+Ladybug Tools developers started learning programming through developing for Ladybug Tools.
 
 Issues
 ------
-
 Feel free to submit issues and enhancement requests to each repository.
 
 Contributing
 ------------
-
 Please refer to each project's contributing file for style guidelines. In general, we
 follow the "fork-and-pull" Git workflow.
 
@@ -19,6 +20,8 @@ follow the "fork-and-pull" Git workflow.
  3. **Commit** changes to your own branch
  4. **Push** your work back up to your fork
  5. Submit a **Pull request** so that we can review your changes
+
+If you don't know what is Git read the section for [new users](#new-users).
 
 NOTES:
  1. Be sure to open an issue or contact the current developers and let them know about your
@@ -30,16 +33,45 @@ NOTES:
  4. Read the contributing.md of the project beforehand to ensure your pull request meets
  the requirement of the project.
 
-Licensing
+Style guide
+-----------
+ For Python projects see Ladybug Tools [Python style guide](
+ https://github.com/ladybug-tools/contributing/wiki/python-style-guide).
+
+ Licensing
 -----------------------
+ Most Ladybug Tools open source projects are licensed under the GNU General Public License v3.0.
+ unless indicated otherwise. For more information about the license see [here](https://github.com/ladybug-tools/honeybee/blob/master/LICENSE).
 
-Most Ladybug Tools open source projects are licensed under the GNU General Public License v3.0.
-unless indicated otherwise. For more information about the license see [here](https://github.com/ladybug-tools/honeybee/blob/master/LICENSE).
+  New Users
+  ---------
+  The first thing to do is to register a user name with [GitHub]( https://github.com/ ).
 
-### FAQ
-[See here for FAQ](http://www.ladybug.tools/about.html#faq).
-Can't find your question? [Open a new issue](https://github.com/ladybug-tools/contributing/issues/new).
+  You will need to supply a username and email address and to create a password.
 
-### Attribution
-This contributing guideline is adapted from the Esri's Contributing guideline,
-available at https://github.com/Esri/contributing
+  After you have registered you can go to your [GitHub settings]( https://github.com/settings/profile ).
+  Here you can add a photo and update your bio. It's a good thing to add at least some
+  data - especially a photo and a location. These help your friends remember and know
+  that it is really you.
+
+  If you are new and looking for some way to contribute a good place to start is to look
+  at the issues tagged **good first issue**.
+
+  See [contributing notes for Spider project](http://www.ladybug.tools/spider/#pages/contributing.md)
+  to learn how to become a team member and be a good citizen!
+
+ FAQ
+ ---
+  See [here](http://www.ladybug.tools/about.html#faq) for FAQ.
+  If you can't find your question [open a new issue](https://github.com/ladybug-tools/contributing/issues/new).
+
+  Be nice!
+  --------
+   Please note that all participants of this project are expected to follow our
+   Code of Conduct. We enjoy the development of Ladybug Tools and want to make it enjoyable
+   for others. We care about good code but value our community and the people over the code
+   and development. By participating in Ladybug Tools project you agree to abide by its terms.
+   See [our code of conduct](CODE_OF_CONDUCT.md).
+
+
+### Thank you and happy coding! :)
