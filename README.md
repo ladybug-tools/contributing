@@ -37,6 +37,9 @@ Style guide
 -----------
  For Python projects see Ladybug Tools [Python style guide](
  https://github.com/ladybug-tools/contributing/wiki/python-style-guide).
+ 
+ Please also take a look at the zen of Python by Tim Peters. To read the Zen of Python, please write 
+ ```import this``` in your Python shell.
 
  Licensing
 -----------------------
