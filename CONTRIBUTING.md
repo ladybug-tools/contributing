@@ -6,4 +6,4 @@ programming through developing for Ladybug Tools.
 
 ### Code contribution
 See [contributing to Ladybug Tools Projects](README.md). For each project check the
-CONTRIBUTING.md in project's repository.
+[CONTRIBUTING.md](CONTRIBUTING.md) in project's repository.
