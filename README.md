@@ -4,7 +4,7 @@ Contributing to Ladybug Tools Projects
 Thank you for considering contributing to Ladybug Tools. We welcome contributions to all
 our [projects on Github](http://www.github.com/ladybug-tools) and from anyone, even if
 you are new to open source we will be happy to help you to get started. Most of the
-Ladybug Tools developers started learning programming through developing for Ladybug Tools.
+Ladybug Tools developers started learning to programme through developing for Ladybug Tools.
 
 Issues
 ------
@@ -46,14 +46,14 @@ Unit conventions
 All Ladybug Tools repositories follow a convention of assuming SI units by default. Accordingly, all
 properties on objects and all inputs to functions within a repository are expected to be in SI.
 
-For developers needing to convert the inputs or outputs of Ladybug Tools repositories to other unit systems
-for front-end interfaces, ladybug-core includes a [dataype module](https://github.com/ladybug-tools/ladybug/tree/master/ladybug/datatype) that is capable of converting between many types of units. 
+For developers needing to convert the inputs or outputs of Ladybug Tool's repositories to other unit systems
+for front-end interfaces, ladybug-core includes a [datatype module](https://github.com/ladybug-tools/ladybug/tree/master/ladybug/datatype) that is capable of converting between many types of units. 
 Furthermore, all geometry objects of [ladybug-geometry](https://github.com/ladybug-tools/ladybug-geometry)
 possess `scale` methods that can be used to scale the geometry to/from meters.
 
 For angular inputs and outputs, all Ladybug Tools repositories use degrees (as opposed to radians) with
-the only excpetion being [ladybug-geometry](https://github.com/ladybug-tools/ladybug-geometry), which
-uses radians for faster trigonometric operations and better compatability with CAD interfaces.
+the only exception being [ladybug-geometry](https://github.com/ladybug-tools/ladybug-geometry), which
+uses radians for faster trigonometric operations and better compatibility with CAD interfaces.
 
 Licensing
 -----------------------
@@ -87,7 +87,7 @@ Be nice!
 Please note that all participants of this project are expected to follow our
 Code of Conduct. We enjoy the development of Ladybug Tools and want to make it enjoyable
 for others. We care about good code but value our community and the people over the code
-and development. By participating in Ladybug Tools project you agree to abide by its terms.
+and development. By participating in the Ladybug Tools project you agree to abide by its terms.
 See [our code of conduct](CODE_OF_CONDUCT.md).
 
 
